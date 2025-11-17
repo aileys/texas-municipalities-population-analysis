@@ -1,0 +1,10 @@
+
+### `requirements.txt`
+
+```text
+pandas
+requests
+beautifulsoup4
+wikipedia-api
+matplotlib
+seaborn
